@@ -1,0 +1,24 @@
+h1 {
+    color: #ff9900;
+    text-align: center;
+}
+
+.ad {
+    border-top: 2px solid #ff9900;
+    border-bottom: 2px solid #ff9900;
+} 
+
+p {
+    color:#ff9900;
+    font-size: 25px;
+}
+
+body {
+    background-color: #FFD873;
+    font-family: 'Comfortaa', cursive;
+}
+
+img {
+    height: 200px;
+    width: 250px;
+}
